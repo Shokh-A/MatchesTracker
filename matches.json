@@ -1,0 +1,122 @@
+{
+    "matchid1": {
+        "id": "matchid1",
+        "home": {
+            "id": "teamid1",
+            "score": "3"
+        },
+        "away": {
+            "id": "teamid2",
+            "score": "1"
+        },
+        "date": "2022-01-01"
+    },
+    "matchid2": {
+        "id": "matchid2",
+        "home": {
+            "id": "teamid3",
+            "score": "3"
+        },
+        "away": {
+            "id": "teamid4",
+            "score": "1"
+        },
+        "date": "2022-01-01"
+    },
+    "matchid3": {
+        "id": "matchid3",
+        "home": {
+            "id": "teamid5",
+            "score": 2
+        },
+        "away": {
+            "id": "teamid6",
+            "score": 1
+        },
+        "date": "2021-11-09"
+    },
+    "matchid4": {
+        "id": "matchid4",
+        "home": {
+            "id": "teamid7",
+            "score": "1"
+        },
+        "away": {
+            "id": "teamid8",
+            "score": "2"
+        },
+        "date": "2022-01-01"
+    },
+    "matchid5": {
+        "id": "matchid5",
+        "home": {
+            "id": "teamid9",
+            "score": 2
+        },
+        "away": {
+            "id": "teamid10",
+            "score": 1
+        },
+        "date": "2021-11-07"
+    },
+    "matchid6": {
+        "id": "matchid6",
+        "home": {
+            "id": "teamid1",
+            "score": "2"
+        },
+        "away": {
+            "id": "teamid2",
+            "score": "2"
+        },
+        "date": "2021-12-31"
+    },
+    "matchid7": {
+        "id": "matchid7",
+        "home": {
+            "id": "teamid1",
+            "score": "4"
+        },
+        "away": {
+            "id": "teamid2",
+            "score": "3"
+        },
+        "date": "2022-01-01"
+    },
+    "matchid8": {
+        "id": "matchid8",
+        "home": {
+            "id": "teamid1",
+            "score": "1"
+        },
+        "away": {
+            "id": "teamid2",
+            "score": "1"
+        },
+        "date": "2021-11-31"
+    },
+    "matchid9": {
+        "id": "matchid9",
+        "home": {
+            "id": "teamid1",
+            "score": 2
+        },
+        "away": {
+            "id": "teamid2",
+            "score": 3
+        },
+        "date": "2021-11-03"
+    },
+    "matchid10": {
+        "id": "matchid10",
+        "home": {
+            "id": "teamid2",
+            "score": 2
+        },
+        "away": {
+            "id": "teamid1",
+            "score": 3
+        },
+        "date": "2021-11-02"
+    }
+}

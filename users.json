@@ -1,0 +1,54 @@
+{
+    "userid1": {
+        "id": "userid1",
+        "username": "user1",
+        "email": "email1"
+    },
+    "userid2": {
+        "id": "userid2",
+        "username": "user2",
+        "email": "email1"
+    },
+    "61de485c4293f": {
+        "username": "Shokh",
+        "email": "newemail@mail.ru",
+        "password": "$2y$10$KEyG0ZZTPhwvwGBsKiwIgebSW6fRKuWuYklnZJfD3Pl\/bjcU.UguW",
+        "id": "61de485c4293f"
+    },
+    "61de49a47998e": {
+        "username": "Shokh2",
+        "email": "oldemail@mail.com",
+        "password": "$2y$10$3wXq.F6eIe\/h\/tgAexw0heV2YYOT7Fb39da9YjXsoo\/i94mMvji96",
+        "id": "61de49a47998e"
+    },
+    "61debdc5450c0": {
+        "username": "Shokh3",
+        "email": "newold@mail.ru",
+        "password": "$2y$10$iRfNTpAXv493WXj.5vgt\/e602H47BwR3UaMVSvAze6IsPhT729jJe",
+        "id": "61debdc5450c0"
+    },
+    "61debf41cfa71": {
+        "username": "Shokh4",
+        "email": "new2@mail.ru",
+        "password": "$2y$10$CDeiX4dEzrrEQ8qsIx0Zm.S75zvg\/JGoeol.Zx0J3MecHGGHmw7Ia",
+        "id": "61debf41cfa71"
+    },
+    "61dedb384767f": {
+        "username": "admin",
+        "email": "admin@eltestadium.hu",
+        "password": "$2y$10$If4S\/2.gEMxCbf3X5na7C.90wu22sm21vTwzu\/w0nfb7W3IM3pAf6",
+        "id": "61dedb384767f"
+    },
+    "61df2b3e91734": {
+        "username": "final",
+        "email": "final@mail.ru",
+        "password": "$2y$10$oBVYuYziUlk4Y1.PaVEe2O.BigRs3DbmqNBlz16rQjTiuAVaAIloG",
+        "id": "61df2b3e91734"
+    },
+    "61df5bdf76bff": {
+        "username": "Mr",
+        "email": "mr@mail.com",
+        "password": "$2y$10$ROAL1Oe1C.BmXVXKXxYLxeBHFGPLS7vTNcIKWYpCEZI46eUOqX.Ni",
+        "id": "61df5bdf76bff"
+    }
+}
